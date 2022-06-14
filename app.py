@@ -60,11 +60,11 @@ def predict():
         output = round(prediction[0], 2)
         
         if output < 0:
-            return render_template('index.html', predcition_text = 'Sorry you cannot sell this car')
+            return render_template('index.html', prediction_text = 'Sorry you cannot sell this car')
         else:
-            return render_template('index.html', predcition_text = 'You can sell the car at {}M'.format(output))
+            return render_template('index.html', prediction_text = 'You can sell the car at {}M'.format(output))
     else:
         return render_template('index.html')
     
 if __name__ == "__main__":
-    app,run(debug=True)
+    app.run(debug=True)
