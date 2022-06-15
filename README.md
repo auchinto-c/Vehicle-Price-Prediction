@@ -2,7 +2,7 @@
 
 ## Introduction
 <hr>
-This is project aims to predict the selling price of cars depending on various features available. This project highlights the pipeline starting from data preprocessing, model development, prediction and finally a web ready deployment.
+This project aims to predict the selling price of cars depending on various features available. This project highlights the pipeline starting from data preprocessing, model development, prediction and finally a web ready deployment.
 <br><br>
 
 ## Credits
@@ -21,7 +21,6 @@ This is project aims to predict the selling price of cars depending on various f
 |-----------|-------------|----------------------------------------------|
 | **Demo**  | v1          | [Heroku](https://car-price-v1.herokuapp.com) |
 | **Model** | v1          | Random Forest Regression                     |
-<br>
 
 ## Procedure
 <hr>
