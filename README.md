@@ -8,11 +8,11 @@ This project aims to predict the selling price of cars depending on various feat
 ## Credits
 <hr>
 
-| **Tutorial** | [Krish Naik - Car Price Prediction](https://www.youtube.com/watch?v=p_tpQSY1aTs)                                   |
+|              | Details |
 |--------------|--------------------------------------------------------------------------------------------------------------------|
+| **Tutorial** | [Krish Naik - Car Price Prediction](https://www.youtube.com/watch?v=p_tpQSY1aTs)                                   |
 | **Code**     | [Krich Naik - Car-Price-Prediction](https://github.com/krishnaik06/Car-Price-Prediction)                           |
 | **Dataset**  | [Kaggle - Vehicle Dataset from CarDekho](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho) |
-<br><br>
 
 ## Brief
 <hr>
